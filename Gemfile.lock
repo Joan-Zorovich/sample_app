@@ -68,7 +68,7 @@ GEM
     autoprefixer-rails (10.4.7.0)
       execjs (~> 2)
     aws-eventstream (1.2.0)
-    aws-partitions (1.589.0)
+    aws-partitions (1.590.0)
     aws-sdk-core (3.131.1)
       aws-eventstream (~> 1, >= 1.0.2)
       aws-partitions (~> 1, >= 1.525.0)
@@ -305,6 +305,9 @@ DEPENDENCIES
   webdrivers (= 4.6.0)
   webpacker (= 5.4.0)
   will_paginate (= 3.3.0)
+
+RUBY VERSION
+   ruby 3.0.0p0
 
 BUNDLED WITH
    2.3.11
