@@ -54,6 +54,15 @@ h2 {
   color: $gray-light;
 }
 
+h3 {
+  font-size: 2em;
+  letter-spacing: -1px;
+  margin-bottom: 30px;
+  text-align: center;
+  font-weight: normal;
+  color: #fff;
+}
+
 p {
   font-size: 1.1em;
   line-height: 1.7em;
@@ -182,7 +191,7 @@ aside {
     }
     &:hover {
       text-decoration: none;
-      color: blue;
+      color: #615AF7;
     }
   }
   strong {
@@ -304,4 +313,12 @@ span.image {
   input {
     border: 0;
   }
+}
+
+.jumbotron{
+  background-color: #88A3F5;
+}
+
+.btn-primary{
+  background-color: #615AF7
 }
